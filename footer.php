@@ -1,12 +1,4 @@
- <hr>
-
-      <footer>
-        <p>&copy; Company 2014</p>
-      </footer>
-
-    </div><!--/.container-->
-
-
+ 
     <!-- Bootstrap core JavaScript
     ================================================== -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
